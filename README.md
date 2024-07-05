@@ -2,7 +2,6 @@
 <h2 align="center">Desarrollador web Full-Stack Junior</h2>
 
 ### Lenguajes que utilizo:
-<>
 <img src="https://skillicons.dev/icons?i=html" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=css" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=js" width=35 heigth=35>
@@ -11,10 +10,9 @@
 <img src="https://skillicons.dev/icons?i=py" width=35 heigth=35>
 </p>
 
-<P>
-  
-### Framworks:
 
+### Framworks:
+<P>
 <img src="https://skillicons.dev/icons?i=flask" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=fastapi" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=tailwind" width=35 heigth=35>
