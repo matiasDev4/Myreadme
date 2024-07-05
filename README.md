@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, Soy Matias Alvarez</h1>
 <h2 align="center">Desarrollador web Full-Stack Junior</h2>
 
+
 ### Lenguajes que utilizo:
+<p>
 <img src="https://skillicons.dev/icons?i=html" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=css" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=js" width=35 heigth=35>
