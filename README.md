@@ -1,5 +1,5 @@
-<h1 aling="center">Hola 👋, Soy Matias Alvarez</h1>
-<h2 aling="center">Desarrollador web Full-Stack Junior</h2>
+<h1 align="center">Hola 👋, Soy Matias Alvarez</h1>
+<h2 align="center">Desarrollador web Full-Stack Junior</h2>
 
 ### Lenguajes que utilizo:
 <p>
