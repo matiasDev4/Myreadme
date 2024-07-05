@@ -15,13 +15,13 @@
 <img src="https://skillicons.dev/icons?i=flask" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=fastapi" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=tailwind" width=35 heigth=35>
-</p>
+
 
 ### Base de datos:
 <img src="https://skillicons.dev/icons?i=mysql" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=sqlite" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=mongodb" width=35 heigth=35>
-</p>
+
 
 ### Redes sociales:
 <img src="https://skillicons.dev/icons?i=discord" width=35 heigth=35>
