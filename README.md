@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=html" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=css" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=js" width=35 heigth=35>
-<img src="https://skillicons.dev/icons?i=c" width=35 heigth=35>
+<img src="https://skillicons.dev/icons?i=csharp" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=php" width=35 heigth=35>
 <img src="https://skillicons.dev/icons?i=py" width=35 heigth=35>
 </p>
